@@ -1,0 +1,7 @@
+{
+  "name": "Macaw Blink | Men’s Fashion & Clothing Store Ahmedabad",
+  "description": "Discover contemporary men’s fashion at Macaw Blink, Ahmedabad. Explore our latest clothing collection and visit our store on Judges Bungalow Road.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
